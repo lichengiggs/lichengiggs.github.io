@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lichengiggs.github.io</id>
     <title>黎小晨想太多</title>
-    <updated>2021-05-17T03:32:37.959Z</updated>
+    <updated>2021-05-18T07:30:51.011Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lichengiggs.github.io"/>
     <link rel="self" href="https://lichengiggs.github.io/atom.xml"/>
@@ -10,6 +10,56 @@
     <logo>https://lichengiggs.github.io/images/avatar.png</logo>
     <icon>https://lichengiggs.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 黎小晨想太多</rights>
+    <entry>
+        <title type="html"><![CDATA[内向者的简明演讲教程]]></title>
+        <id>https://lichengiggs.github.io/post/a-byte-of-speech-for-introvert/</id>
+        <link href="https://lichengiggs.github.io/post/a-byte-of-speech-for-introvert/">
+        </link>
+        <updated>2021-05-18T06:47:24.000Z</updated>
+        <summary type="html"><![CDATA[<p>作为一个社恐的内向者，在公开场合说话我是能免则免。</p>
+<p>以至于有时候在公司不得不做一些PPT展示的时候，自己就算准备了很久，还是会心跳加速、说话紧张。</p>
+<p>最近在喜马讲书听到一个演讲的简明教程，让我对演讲有了全新的认识。为了加深印象，我用自己的理解把它再写一遍。</p>
+<p>它把演讲分成了三个部分：</p>
+<ul>
+<li>目标</li>
+<li>钩子</li>
+<li>内容的陈诉</li>
+</ul>
+]]></summary>
+        <content type="html"><![CDATA[<p>作为一个社恐的内向者，在公开场合说话我是能免则免。</p>
+<p>以至于有时候在公司不得不做一些PPT展示的时候，自己就算准备了很久，还是会心跳加速、说话紧张。</p>
+<p>最近在喜马讲书听到一个演讲的简明教程，让我对演讲有了全新的认识。为了加深印象，我用自己的理解把它再写一遍。</p>
+<p>它把演讲分成了三个部分：</p>
+<ul>
+<li>目标</li>
+<li>钩子</li>
+<li>内容的陈诉</li>
+</ul>
+<!-- more -->
+<hr>
+<p><strong>目标是听完演讲以后，你希望听众做的事情</strong></p>
+<p>把目标定好，后面的内容才好填充。这对我是一个全新的认知，我以前做演讲的时候，从来没有刻意去想一个<strong>目标</strong>。</p>
+<p>比如做晋升的述职演讲，我以前只是把自己做过的事情、成果展示出来（演讲的内容），希望快点讲完结束。</p>
+<p>如果现在让我重新做一次述职演讲的话，我就会把目标定为：评委听完后要觉得我的能力和业绩胜任新职位绰绰有余！</p>
+<hr>
+<p><strong>钩子是你讲的东西，和听众有什么关联</strong></p>
+<p>大家关心的是自己，如果你说的东西和他们没啥关系，大概率你在上面说、他在下面玩手机了。</p>
+<p>所以为了完成前面设定的目标，需要一个「你说的东西」和「听众关心的内容」的钩子，去勾住听众的注意力。</p>
+<p>还是用我之前的述职报告为例，这个钩子可以是「一个默默无闻的毕业生、在公司的边缘人，怎么能成为公司最赚钱业务的核心骨干」（故事型钩子），也可以是「从零到1个亿的项目，做对了什么」（悬念型钩子）、也可以是「如果我做了xxx，给公司和各位所在部门的好处是什么」（利益型钩子）。</p>
+<hr>
+<p><strong>将内容压缩到3点</strong></p>
+<p>无论你想说的内容有多少，都要压缩到最多3点。因为人的记忆力非常有限，况且还是被动地听你说。然后按照总-分-总的结构，将这三点内容填充。</p>
+<p>继续用述职例子，我可以将内容分解成「做了什么事」、「取得了什么成绩」、「以后的计划」三部分，最后再总结一下为什么可以胜任新的职位，加深评委的印象。</p>
+<hr>
+<p>如果你细心一点的话，可以看到这篇博客的写作也分成了三个部分。为了最后加深印象，我再把简明演讲的三个要点重复一下，它们是：</p>
+<ul>
+<li>讲之前，设定大家听完后要干什么的目标；</li>
+<li>开始讲，要设计一个我说的和大家关心东西的钩子；</li>
+<li>要把讲的内容压缩成3个要点，说完以后记得再总结一次；</li>
+</ul>
+<p>在上周写ppt时，我已经有意识地运用了这三个要点，特别是关于目标设定这个以前自己完全忽略的东西，对我的帮助非常大。希望对我一样害怕演讲的内向者，也能有所帮助。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[完成人生的第一个引体向上]]></title>
         <id>https://lichengiggs.github.io/post/my-first-pull-up/</id>
